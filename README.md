@@ -55,7 +55,7 @@
 <body>
     <div class="container">
         <h1>Dept. of EVS/EHS</h1>
-<p><center><img src="SMLGDC logo.png" alt="SMLGDC LOGO" height="170" width="170"></center></p>
+<center><img src="SMLGDC logo.png" alt="SMLGDC LOGO" height="170" width="170"></center>
         <p>Welcome to the official site of the Dept. of EVS/EHS, Sanchaman Limboo Govt. Degree College</p>
         
         <h2>About the Department</h2>
