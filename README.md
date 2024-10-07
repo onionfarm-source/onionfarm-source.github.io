@@ -56,7 +56,7 @@
     <div class="container">
         <h1>Dept. of EVS/EHS</h1>
 <center><img src="SMLGDC logo.png" alt="SMLGDC LOGO" height="170" width="170"></center>
-        <p>Welcome to the official site of the Dept. of EVS/EHS, Sanchaman Limboo Govt. Degree College</p>
+        <p>Welcome to the Dept. of EVS/EHS, Sanchaman Limboo Govt. Degree College</p>
         
         <h2>About the Department</h2>
         <p>The department of Environmental Studies/Eastern Himalayan Studies has been a part of Sanchaman Limboo Govt. Degree College, Arigaon, Gyalshing since its inception in the year 2011. The department’s main aim through its present curriculum is to offer students from various backgrounds a strong foundation regarding the various aspects of our environment and consequently the present plight for environmental protection. The content being taught at present is packaged in a way that makes it easier for students from differing backgrounds to understand and relate with the environment, this is done towards our conclusive goal of building a sense of responsibility in the students about the environment and its protection.</p>
@@ -65,10 +65,8 @@
         <h2>About the Faculty</h2>
 	<p><center><img src="Me pp.png" alt="Me pp" height="170" width="170"></center></p>
 	<p>Jigdol Tenzing Gyalpo Bhutia</p>
-	<p>Details about faculty(placeholder)</p>
 	<p><center><img src="Dr Bikash pp.jpeg" alt="Dr Bikash pp" height="170" width="170"></center></p>
 	<p>Dr. Bikash Karki</p>
-	<p>Details about the faculty(placeholder)</p>
         <h2>Course in the Department</h2>
         <table>
             <tr>
