@@ -87,17 +87,6 @@
                 <td>HUR-UG-F106</td>
                 <td>Eastern Himalayan Studies</td>
             </tr>
-            <tr>
-                <td>3</td>
-                <td>Add-on</td>
-                <td>N/A</td>
-                <td>Environmental Impact Assessment</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>Add-on</td>
-                <td>N/A</td>
-                <td>Disaster Management</td>
             </tr>
         </table>
         
@@ -119,6 +108,7 @@
         <img src="IMG_20230527_083548.jpg" alt="Cleanliness Drive Image 2">
         
         <h3>3. Paper Recycling</h3>
+	<p> The department fully utilizes the operational Waste Recycling Facilities provided by the institution. Students are taught the process of waste paper recycling through hands-on approach along with upscaling of waste paper</p>
         <img src="WhatsApp Image 2024-10-03 at 19.29.38.jpeg" alt="Paper Recycling Image 1">
 	<img src="WhatsApp Image 2024-10-03 at 19.29.38 (1).jpeg" alt="Paper Recycling Image 2">
     </div>
